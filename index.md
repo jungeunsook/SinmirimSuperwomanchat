@@ -1,4 +1,4 @@
-# 서울신미림초등학교 슈퍼우먼 챗에 오신것을 환영합니다!
+# 서울신미림초등학교 슈퍼우먼 챗
 
 You can use the [editor on GitHub](https://github.com/jungeunsook/ssbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
