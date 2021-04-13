@@ -1,6 +1,6 @@
 # 서울신미림초등학교 슈퍼우먼 챗(SSchat)
 
-You can use the [editor on GitHub](https://github.com/jungeunsook/ssbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+이 챗은 서울신미림초등학교 학생, 학부모, 교사를 위한 궁금증을 해결하기 위해 만들어진 챗입니다.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
