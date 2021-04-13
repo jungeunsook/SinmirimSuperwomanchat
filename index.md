@@ -3,11 +3,14 @@
 
 ### 이 챗은 서울신미림초등학교 학생, 학부모, 교사를 위한 궁금증을 해결하기 위해 만들어진 챗입니다.
 
+# 학교
 
-```markdown
-Syntax highlighted code block
+## 서울신미림초등학교 
 
-# Header 1
+1. 학생의 궁금증
+2. 학부모의 궁금증
+3. 교사의 궁금증
+
 ## Header 2
 ### Header 3
 
