@@ -1,6 +1,6 @@
 # 서울신미림초등학교 슈퍼우먼 챗(SSchat)
 
-![http://sinmirim.sen.es.kr/index.do]
+https://octodex.github.com/images/yaktocat.png
 
 ### 이 챗은 서울신미림초등학교 교사들을 위한 궁금증을 해결하기 위해 만들어진 챗입니다.
 
