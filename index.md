@@ -1,5 +1,7 @@
 # 신미림슈퍼우먼챗(SinmirimSuperwomanchat)
 
+![슈퍼우먼](https://user-images.githubusercontent.com/81283008/119660056-c623a380-be69-11eb-8375-141365cb76b5.png)
+
 ## 신미림초 교무부장봇 **슈퍼우먼봇 SS챗**입니다.
 
 ## 무엇을 도와드릴까요? 
