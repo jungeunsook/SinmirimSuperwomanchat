@@ -1,6 +1,6 @@
 # 서울신미림초등학교 슈퍼우먼 챗(SSchat)
 
-![서울신미림초등학교](https://github.com/jungeunsook/SinmirimSuperwomanchat/issues/2#issue-894059386/path/to/img.jpg "서울신미림초등학교")
+![서울신미림초등학교](https://user-images.githubusercontent.com/81283008/118608543-c3cfa280-b7f4-11eb-8098-00584081914d.JPG)
 
 ### 이 챗은 서울신미림초등학교 교사들을 위한 궁금증을 해결하기 위해 만들어진 챗입니다.
 
