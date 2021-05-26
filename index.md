@@ -1,6 +1,6 @@
-## 신미림슈퍼우먼챗(SinmirimSuperwomanchat)
+신미림슈퍼우먼챗(SinmirimSuperwomanchat)
 
-#서울신미림초등학교
+서울신미림초등학교
 
 ![서울신미림초등학교](https://user-images.githubusercontent.com/81283008/118608543-c3cfa280-b7f4-11eb-8098-00584081914d.JPG)
 
