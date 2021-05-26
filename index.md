@@ -2,7 +2,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://github.com/jungeunsook/SinmirimSuperwomanchat/issues/2#issue-894059386](src)
 
 ### 이 챗은 서울신미림초등학교 교사들을 위한 궁금증을 해결하기 위해 만들어진 챗입니다.
 
