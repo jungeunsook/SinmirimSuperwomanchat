@@ -1,6 +1,7 @@
 # 신미림슈퍼우먼챗(SinmirimSuperwomanchat)
 
-## 신미림슈퍼우먼(SS챗)은 교무부장봇으로 신미림초등학교에 근무하시는 선생님들을 돕는 챗봇입니다.
+## SS챗은 신미림초 교무부장봇으로 선생님들의 학교 생활을 돕는 챗봇입니다.
+* SS챗은 신미림슈퍼우먼챗(SinmirimSuperwomanchat)의 약자입니다. 
 
 ## 궁금한 것이 있으신가요? 언제든지 교무부장봇 **SS챗**을 찾아주세요!
 
@@ -12,8 +13,6 @@
 6. 자유질문(자주 묻는 질문)
 
 #### 교무부관련 업무 및 교육활동에 대해 주제별로 안내해드립니다. 
-#### SS챗은 신미림슈퍼우먼챗(SinmirimSuperwomanchat)의 약자입니다. 
-
 
 ![서울신미림초등학교](https://user-images.githubusercontent.com/81283008/118608543-c3cfa280-b7f4-11eb-8098-00584081914d.JPG)
 * 학교홈페이지: <http://sinmirim.sen.es.kr/index.do>
