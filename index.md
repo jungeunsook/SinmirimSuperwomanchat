@@ -13,6 +13,7 @@
 5. e알리미(가정통신문)
 6. 자유질문(자주 묻는 질문)
 
+# 서울신미림초등학교
 
 ![서울신미림초등학교](https://user-images.githubusercontent.com/81283008/118608543-c3cfa280-b7f4-11eb-8098-00584081914d.JPG)
 * 학교홈페이지: <http://sinmirim.sen.es.kr/index.do>
