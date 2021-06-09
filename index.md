@@ -53,7 +53,7 @@
 
 ###  👸 SS챗의 참고문헌 및 온라인 출처
 
-1. 
-2. 
+1. 2021학년도 생활기록부기재요령(교육부, https://www.moe.go.kr/boardCnts/view.do?boardID=316&lev=0&statusYN=W&s=moe&m=0302&opType=N&boardSeq=83343)
+2. 2015 개정교육과정(교육부,
 3. 
-4. 
+4. 슈퍼우먼 그림출처(https://www.pngwing.com/ko/free-png-blymr)
